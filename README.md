@@ -172,7 +172,7 @@
 ## 🌱 Metrics
 
 <a href="https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics_private_repository.svg">
-	<img src="./metrics.svg" width="400rem"/>
+	<img src="./metrics_private_repository.svg" width="400rem"/>
 </a>
 <p>
   <img align="center" height="141rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt="" />
