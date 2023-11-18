@@ -2395,7 +2395,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 359 out of 65.7m repositories</span>
+                                    <span class="gh">ranked 359 out of 71.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 37226 stars</div>
                             </div>
@@ -3103,15 +3103,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.31mb of code in 2771 edited files across 543 commits over last 2 days</small>
+                <small>estimation from 732kb of code in 816 edited files across 279 commits over last 2 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.8161649220242" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="437.8161649220242" y="0" width="19.802011202590947" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.61817612461516" y="0" width="2.3818238753848835" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.2486035267468" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="437.2486035267468" y="0" width="20.866960631760744" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.11556415850754" y="0" width="1.8844358414924638" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3123,9 +3123,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>39.7k lines</div>
-                                <div>1.56 MB</div>
-                                <div>95.18%</div>
+                                <div>10.8k lines</div>
+                                <div>455 kB</div>
+                                <div>95.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3136,9 +3136,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>2.58k lines</div>
-                                <div>70.6 kB</div>
-                                <div>4.3%</div>
+                                <div>890 lines</div>
+                                <div>21.7 kB</div>
+                                <div>4.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3149,9 +3149,9 @@
                                 Vue
                             </div>
                             <small>
-                                <div>378 lines</div>
-                                <div>8.50 kB</div>
-                                <div>0.52%</div>
+                                <div>53 lines</div>
+                                <div>1.96 kB</div>
+                                <div>0.41%</div>
                             </small>
                         </div>
                     </section>
@@ -3159,7 +3159,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2023, 19:41:27 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2023, 20:43:40 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
