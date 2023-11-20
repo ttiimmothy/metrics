@@ -1,1 +1,4 @@
+.env.local.not.work
+.env
+node_modules
 .DS_Store
