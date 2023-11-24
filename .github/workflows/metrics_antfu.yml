@@ -2,7 +2,7 @@ name: metrics_antfu
 on:
   push:
     branches:
-      - main
+      - production
   schedule:
     - cron: "0 2,8,14,20 * * *"
   workflow_dispatch:
