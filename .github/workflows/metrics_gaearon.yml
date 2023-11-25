@@ -2,7 +2,7 @@ name: metrics_gaearon
 on:
   push:
     branches:
-      - production
+      - prod
   workflow_dispatch:
 
 jobs:

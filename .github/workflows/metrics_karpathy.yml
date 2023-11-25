@@ -2,7 +2,7 @@ name: metrics_karpathy
 on:
   push:
     branches:
-      - production
+      - prod
   schedule:
     - cron: "0 4,10,16,22 * * *"
   workflow_dispatch:
