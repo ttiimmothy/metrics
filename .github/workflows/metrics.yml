@@ -2,9 +2,7 @@ name: metrics
 on:
   push:
     branches:
-      - main
-  schedule:
-    - cron: "0 0,6,12,18 * * *"
+      - prod
   workflow_dispatch:
 
 jobs:
