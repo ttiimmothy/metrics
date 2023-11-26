@@ -2,9 +2,7 @@ name: metrics_private_repository
 on:
   push:
     branches:
-      - main
-  schedule:
-    - cron: "30 0,6,12,18 * * *"
+      - prod
   workflow_dispatch:
 
 jobs:
