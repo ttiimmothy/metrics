@@ -11,8 +11,8 @@ function App() {
   return (
     <div className="main-container">
       <img src={metricsGaearon} width="400rem" />
-      <img src={metricsAntfu} width="400rem" />
       <img src={metricsAntfuPrivateRepository} width="400rem" />
+      <img src={metricsAntfu} width="400rem" />
       <img src={metricsKarpathy} width="400rem" />
       <img src={metrics} width="400rem" />
       <img src={metricsPrivateRepository} width="400rem" />
