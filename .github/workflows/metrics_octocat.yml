@@ -2,6 +2,7 @@ name: metrics_octocat
 on:
   push:
     branches:
+      - main
       - prod
   schedule:
     - cron: "0 5,11,17,23 * * *"
