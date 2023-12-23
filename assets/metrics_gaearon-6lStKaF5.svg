@@ -2255,7 +2255,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2133.440666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2133.4303333333332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2278,9 +2278,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 10 out of 61.7m repositories</span>
+                                    <span class="gh">ranked 10 out of 53.4m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 216462 stars</div>
+                                <div class="text">Maintaining a repository with 216461 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2444,7 +2444,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 4.91k out of 61.7m repositories</span>
+                                    <span class="gh">ranked 4.91k out of 53.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1689 times</div>
                             </div>
@@ -3232,7 +3232,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2023, 13:28:42 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2023, 13:45:24 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
