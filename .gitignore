@@ -22,4 +22,4 @@ dist-ssr
 *.sw?
 .env.local.not.work
 .env
-dependabot.yml
+dependabot_old.yml
