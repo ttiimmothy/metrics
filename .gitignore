@@ -23,3 +23,4 @@ dist-ssr
 .env.local.not.work
 .env
 dependabot_old.yml
+.vscode/settings.json
