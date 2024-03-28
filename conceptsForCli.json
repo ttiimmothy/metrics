@@ -1,0 +1,12 @@
+{
+  "/usr/local/bin": "global software binary symlink",
+  "/usr/local/lib/node_modules": "npm global packages",
+  "firebase": {
+    "firestore_delete_all_collections": {
+      "commands": ["firebase firestore:delete --all-collections"]
+    }
+  },
+  "~/.local/share/fish/fish_history": "fish history",
+  "/opt/homebrew/Cellar": "brew installed software",
+  "/opt/homebrew/bin": "brew installed software binary symlink"
+}
