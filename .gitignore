@@ -24,3 +24,4 @@ dist-ssr
 .env
 dependabot_old.yml
 .vscode/settings.json
+concepts.json
