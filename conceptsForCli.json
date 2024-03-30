@@ -8,5 +8,6 @@
   },
   "~/.local/share/fish/fish_history": "fish history",
   "/opt/homebrew/Cellar": "brew installed software",
-  "/opt/homebrew/bin": "brew installed software binary symlink"
+  "/opt/homebrew/bin": "brew installed software binary symlink",
+  "/etc/paths": "file stores the initial values that are added to $PATH variable"
 }
