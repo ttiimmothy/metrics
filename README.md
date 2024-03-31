@@ -7,6 +7,8 @@
 - 🔭 &nbsp; Seeking for any opportunities available in Canada
 - 📫 &nbsp; How to reach me **<timothyemail805@gmail.com>**
 
+[![cd](https://github.com/ttiimmothy/ttiimmothy-metrics/actions/workflows/cd.yml/badge.svg)](https://github.com/ttiimmothy/ttiimmothy-metrics/actions/workflows/cd.yml)
+
 ### 🛠 &nbsp;Tech Stack
 <table>
 	<tr>
