@@ -3,5 +3,8 @@
     "0-th index": "root",
     "(n-1)th index": "leaf",
     "all the elements": "node"
+  },
+  "stack": {
+    "peek": "return the 0-th index of the stack without removing it"
   }
 }
