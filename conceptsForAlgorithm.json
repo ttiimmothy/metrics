@@ -1,0 +1,7 @@
+{
+  "tree": {
+    "0-th index": "root",
+    "(n-1)th index": "leaf",
+    "all the elements": "node"
+  }
+}
