@@ -1,4 +1,4 @@
-name: metrics_antfu
+name: metrics_theprimeagen
 on:
   push:
     branches:
