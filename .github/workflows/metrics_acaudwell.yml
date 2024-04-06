@@ -2,7 +2,6 @@ name: metrics_acaudwell
 on:
   push:
     branches:
-      - main
       - prod
   workflow_dispatch:
 
