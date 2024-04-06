@@ -7,7 +7,6 @@
   "description": "Metrics",
   "main": "main.ts",
   "license": "GPL-3.0",
-  "homepage": "https://ttiimmothy.github.io/ttiimmothy-metrics",
   "scripts": {
     "start": "ts-node main.ts",
     "dev": "vite --port 5171",
