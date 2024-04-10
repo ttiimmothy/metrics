@@ -196,3 +196,7 @@
 <a href="https://www.github.com/" target="_blank">
 	<img src="https://skillicons.dev/icons?i=github" height="40" alt=""/>
 </a>
+
+## License
+
+Metrics is licensed under [GNU General Public License v3.0](LICENSE).
