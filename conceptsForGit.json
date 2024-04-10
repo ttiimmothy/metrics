@@ -1,0 +1,15 @@
+{
+  "submodule": {
+    "command": [
+      {
+        "git submodule deinit <submodule>": "remove git submodule starting point"
+      },
+      {
+        "git rm -r <submodule>": "remove git submodule folder second and main procedure"
+      },
+      {
+        "git submodule add <remote_url> <destination_folder>": "submodule can add to wherever you want"
+      }
+    ]
+  }
+}
