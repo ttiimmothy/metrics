@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1832" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1812" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 34546 users
+                            Followed by 34561 users
                         </div>
                     </section>
                     <section>
@@ -2193,7 +2193,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3466.42 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3467.97 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2232,7 +2232,7 @@
                                     influencer
                                     <span class="gh">ranked 33 out of 157m users</span>
                                 </div>
-                                <div class="text">Followed by 34546 users</div>
+                                <div class="text">Followed by 34561 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2317,7 +2317,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="477.8546666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="477.90633333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2340,9 +2340,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 230 out of 237m repositories</span>
+                                    <span class="gh">ranked 230 out of 241m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 56244 stars</div>
+                                <div class="text">Maintaining a repository with 56249 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2545,7 +2545,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.46132785763176 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.54620123203289 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2798,21 +2798,33 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 715kb of code in 928 edited files across 325 commits over last 8 days</small>
+                <small>estimation from 885kb of code in 818 edited files across 316 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="368.38659610828125" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="368.38659610828125" y="0" width="79.0623219873028" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="447.4489180955841" y="0" width="5.738179956905448" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.18709805248955" y="0" width="4.017865251095939" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.2049633035855" y="0" width="1.9785517918912894" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.18351509547676" y="0" width="0.8164849045232768" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.1308538769939" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="282.1308538769939" y="0" width="136.29616992237482" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="418.4270237993687" y="0" width="35.51821206175893" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="453.9452358611277" y="0" width="5.165913162159857" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.11114902328757" y="0" width="0.8888509767124456" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                HTML
+                            </div>
+                            <small>
+                                <div>296 lines</div>
+                                <div>165 kB</div>
+                                <div>61.33%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2821,9 +2833,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.94k lines</div>
-                                <div>97 kB</div>
-                                <div>80.08%</div>
+                                <div>2.35k lines</div>
+                                <div>79.8 kB</div>
+                                <div>29.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2836,20 +2848,7 @@
                             <small>
                                 <div>128 lines</div>
                                 <div>20.8 kB</div>
-                                <div>17.19%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                HTML
-                            </div>
-                            <small>
-                                <div>2 lines</div>
-                                <div>1.51 kB</div>
-                                <div>1.25%</div>
+                                <div>7.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2860,9 +2859,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>27 lines</div>
-                                <div>1.06 kB</div>
-                                <div>0.87%</div>
+                                <div>100 lines</div>
+                                <div>3.03 kB</div>
+                                <div>1.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2875,20 +2874,7 @@
                             <small>
                                 <div>25 lines</div>
                                 <div>521 bytes</div>
-                                <div>0.43%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                CSS
-                            </div>
-                            <small>
-                                <div>3 lines</div>
-                                <div>215 bytes</div>
-                                <div>0.18%</div>
+                                <div>0.19%</div>
                             </small>
                         </div>
                     </section>
@@ -2896,7 +2882,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2025, 03:05:36 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Feb 2025, 15:04:48 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
