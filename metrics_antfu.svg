@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 35869 users
+                            Followed by 35876 users
                         </div>
                     </section>
                     <section>
@@ -2215,17 +2215,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.20mb of code in 1030 edited files across 295 commits over last 23 days</small>
+                <small>estimation from 4.20mb of code in 1028 edited files across 293 commits over last 24 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.1319936444093" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="356.1319936444093" y="0" width="82.93339678689581" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="439.06539043130516" y="0" width="10.253686319360757" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.3190767506659" y="0" width="9.777017017324358" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.0960937679902" y="0" width="0.9039062320097637" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.80573392907957" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="356.80573392907957" y="0" width="82.22005183299625" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="439.02578576207577" y="0" width="10.273084524697577" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.29887028677337" y="0" width="9.795513446586636" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.09438373336" y="0" width="0.9056162666400067" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2239,7 +2239,7 @@
                             <small>
                                 <div>3.44k lines</div>
                                 <div>100 kB</div>
-                                <div>77.42%</div>
+                                <div>77.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2250,9 +2250,9 @@
                                 Vue
                             </div>
                             <small>
-                                <div>602 lines</div>
-                                <div>23.4 kB</div>
-                                <div>18.03%</div>
+                                <div>598 lines</div>
+                                <div>23.2 kB</div>
+                                <div>17.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2299,7 +2299,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2025, 04:06:38 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2025, 16:05:44 (timezone Canada/Eastern) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
