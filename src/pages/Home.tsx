@@ -6,6 +6,7 @@ import metricsKarpathy from "../../metrics_karpathy.svg";
 import metrics from "../../metrics.svg";
 import metricsPrivateRepository from "../../metrics_private_repository.svg";
 import metricsOctocat from "../../metrics_octocat.svg";
+import metricsClaude from "../../metrics_claude.svg";
 
 const Home: React.FC = () => {
   return (
@@ -30,6 +31,9 @@ const Home: React.FC = () => {
       </Link>
       <Link to="id/octocat" className="grow">
         <img src={metricsOctocat} className="w-full" />
+      </Link>
+      <Link to="id/claude" className="grow">
+        <img src={metricsClaude} className="w-full" />
       </Link>
     </div>
   );

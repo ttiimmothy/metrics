@@ -6,6 +6,7 @@ import metricsKarpathy from "../../metrics_karpathy.svg";
 import metrics from "../../metrics.svg";
 import metricsPrivateRepository from "../../metrics_private_repository.svg";
 import metricsOctocat from "../../metrics_octocat.svg";
+import metricsClaude from "../../metrics_claude.svg";
 
 const MetricsPage: React.FC = () => {
   const { id } = useParams();
@@ -31,6 +32,8 @@ const MetricsPage: React.FC = () => {
         <img src={metricsPrivateRepository} width="400rem" />
       ) : id === "octocat" ? (
         <img src={metricsOctocat} width="400rem" />
+      ) : id === "claude" ? (
+        <img src={metricsClaude} width="400rem" />
       ) : (
         <></>
       )}

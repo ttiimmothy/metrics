@@ -1,5 +1,7 @@
 name: metrics_octocat
 on:
+  push:
+    branches: [prod]
   schedule:
     - cron: "0 3,15,21 * * *"
   workflow_dispatch:
