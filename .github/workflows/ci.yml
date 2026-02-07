@@ -4,9 +4,9 @@ on:
   #   branches:
   #     - main
   # - config/dependabot
-  push:
-    branches:
-      - prod
+  # push:
+  #   branches:
+  #     - prod
   workflow_dispatch:
 
 jobs:
