@@ -1,8 +1,8 @@
 name: metrics_mojombo
 on:
-  push:
-    branches:
-      - prod
+  # push:
+  #   branches:
+  #     - prod
   workflow_dispatch:
 
 jobs:

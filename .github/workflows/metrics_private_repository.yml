@@ -1,8 +1,8 @@
 name: metrics_private_repository
 on:
-  push:
-    branches:
-      - prod
+  # push:
+  #   branches:
+  #     - prod
   workflow_dispatch:
 
 jobs:
