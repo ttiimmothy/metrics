@@ -1,4 +1,4 @@
-name: metrics_octocat
+name: metrics_claude
 on:
   push:
     branches: [prod]
