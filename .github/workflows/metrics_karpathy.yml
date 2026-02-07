@@ -1,8 +1,8 @@
 name: metrics_karpathy
 on:
-  push:
-    branches:
-      - prod
+  # push:
+  #   branches:
+  #     - prod
   # schedule:
   #   - cron: "8 1,7,13,19 * * *"
   #   - cron: "0 4,10,16,22 * * *"
