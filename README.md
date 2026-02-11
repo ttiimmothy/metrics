@@ -177,7 +177,7 @@
 <p>
   <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&title=Organizations,MultiLanguage,PullRequest,Repositories,Commits" alt="" />
 </p>
-<a href="https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics_private_repository.svg">
+<a href="https://github.com/ttiimmothy/metrics/blob/main/metrics_private_repository.svg">
 	<img src="./metrics_private_repository.svg" width="400rem" alt=""/>
 </a>
 <p>
