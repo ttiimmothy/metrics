@@ -201,3 +201,6 @@
 ## License
 
 Metrics is licensed under [GNU General Public License v3.0](LICENSE).
+
+[![My GitHub Game](game.gif)](game.gif)
+<!-- ![My GitHub Game](game.gif) -->
