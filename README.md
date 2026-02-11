@@ -174,17 +174,20 @@
 
 ## 🌱 Metrics
 
+<p>
+  <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&title=Organizations,MultiLanguage,PullRequest,Repositories,Commits" alt="" />
+</p>
 <a href="https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics_private_repository.svg">
 	<img src="./metrics_private_repository.svg" width="400rem" alt=""/>
 </a>
 <p>
-  <img align="center" height="141rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ttiimmothy&theme=buefy-dark" alt=""/>
+  <img align="center" height="141rem" src="https://github-readme-streak-stats-forks.vercel.app/?user=ttiimmothy&theme=buefy-dark" alt="" />
 </p>
 <p>
-  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical" alt="" >
+  <img align="center" height="150rem" src="https://github-readme-stats-readme.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical&rank_icon=percentile&number_format=long" alt="" />
 </p>
 <p>
-  <img align="center" height="260rem"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttiimmothy&show_icons=true&layout=compact&langs_count=26" alt="" />
+  <img align="center" height="260rem" src="https://github-readme-stats-readme.vercel.app/api/top-langs/?username=ttiimmothy&show_icons=true&layout=compact&langs_count=25&theme=gotham" alt="" />
 </p>
 
 ### <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="35" alt=""/> Icons
