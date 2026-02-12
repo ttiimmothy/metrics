@@ -14,7 +14,8 @@ jobs:
       contents: write
     steps:
       - name: Metrics
-        uses: lowlighter/metrics@latest
+        # uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics_antfu.svg
@@ -23,12 +24,14 @@ jobs:
           base_indepth: yes
           config_timezone: Canada/Eastern
           config_twemoji: yes
+          # config_order: base.header, base.activity+community, base.repositories, isocalendar, achievements, languages
+          config_order: base.header, base.activity+community, base.repositories, isocalendar, achievements
           # config_order: base.header, base.activity+community, base.repositories, isocalendar, languages
-          config_order: base.header, base.activity+community, base.repositories, isocalendar
-          # plugin_achievements: yes
-          # plugin_achievements_display: detailed
-          # plugin_achievements_secrets: yes
-          # plugin_achievements_threshold: C
+          # config_order: base.header, base.activity+community, base.repositories, isocalendar
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           # plugin_languages: yes
