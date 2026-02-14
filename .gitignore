@@ -25,4 +25,5 @@ dist-ssr
 dependabot_old.yml
 .vscode/settings.json
 concepts.json
+metrics_antfu_b.svg
 metrics_antfu_x.svg
