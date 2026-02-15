@@ -14,8 +14,7 @@ jobs:
     steps:
       - name: Metrics
         # uses: lowlighter/metrics@latest
-        # uses: gh-metrics/metrics@master
-        uses: actionhooks/lowlightermetrics@latest
+        uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.PRIVATE_REPO_METRICS_TOKEN }}
           filename: metrics_gaearon_new.svg
