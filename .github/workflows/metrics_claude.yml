@@ -20,7 +20,8 @@ jobs:
           token: ${{ secrets.PRIVATE_REPO_METRICS_TOKEN }}
           filename: metrics_claude.svg
           user: claude
-          base: header, activity, repositories, metadata
+          # base: header, activity, repositories, metadata
+          base: header, repositories, metadata
           base_indepth: yes
           config_timezone: Canada/Eastern
           config_twemoji: yes
