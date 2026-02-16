@@ -19,6 +19,7 @@ jobs:
         uses: actionhooks/lowlightermetrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          config_presets: https://raw.githubusercontent.com/actionhooks/lowlightermetrics/presets/ocean-blue/preset.yml
           filename: metrics_antfu.svg
           user: antfu
           base: header, activity, repositories, metadata
@@ -44,4 +45,5 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          repositories_batch: 50
           use_prebuilt_image: yes
