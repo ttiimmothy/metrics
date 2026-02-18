@@ -179,8 +179,11 @@
   <!-- <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&row=1&column=5" alt="" /> -->
   <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&column=5" alt="" />
 </p>
-<a href="https://github.com/ttiimmothy/metrics/blob/main/metrics_private_repository.svg">
+<!-- <a href="https://github.com/ttiimmothy/metrics/blob/main/metrics_private_repository.svg">
 	<img src="./metrics_private_repository.svg" width="400rem" alt=""/>
+</a> -->
+<a href="https://github.com/ttiimmothy/ttiimmothy/blob/main/metrics_private_repository.svg">
+	<img src="https://raw.githubusercontent.com/ttiimmothy/ttiimmothy/main/metrics_private_repository.svg" width="400rem" alt=""/>
 </a>
 <p>
   <img align="center" height="141rem" src="https://github-readme-streak-stats-forks.vercel.app/?user=ttiimmothy&theme=buefy-dark" alt="" />
