@@ -176,7 +176,8 @@
 
 <p>
   <!-- <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&title=Organizations,MultiLanguage,PullRequest,Repositories,Commits" alt="" /> -->
-  <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&row=1&column=5" alt="" />
+  <!-- <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&row=1&column=5" alt="" /> -->
+  <img align="center" src="https://github-readme-trophy-stats.vercel.app/?username=ttiimmothy&theme=darkhub&margin-w=15&column=5" alt="" />
 </p>
 <a href="https://github.com/ttiimmothy/metrics/blob/main/metrics_private_repository.svg">
 	<img src="./metrics_private_repository.svg" width="400rem" alt=""/>
@@ -185,7 +186,7 @@
   <img align="center" height="141rem" src="https://github-readme-streak-stats-forks.vercel.app/?user=ttiimmothy&theme=buefy-dark" alt="" />
 </p>
 <p>
-  <img align="center" height="150rem" src="https://github-readme-stats-readme.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical&rank_icon=percentile&number_format=long" alt="" />
+  <img align="center" height="150rem" src="https://github-readme-stats-readme.vercel.app/api?username=ttiimmothy&show_icons=true&theme=radical&number_format=long" alt="" />
 </p>
 <p>
   <img align="center" height="260rem" src="https://github-readme-stats-readme.vercel.app/api/top-langs/?username=ttiimmothy&show_icons=true&layout=compact&langs_count=30&theme=gotham" alt="" />
