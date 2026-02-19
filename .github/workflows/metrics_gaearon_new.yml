@@ -15,7 +15,7 @@ jobs:
       - name: Metrics
         # uses: lowlighter/metrics@latest
         # uses: gh-metrics/metrics@master
-        uses: actionhooks/lowlightermetrics@lateset
+        uses: actionhooks/lowlightermetrics@latest
         with:
           token: ${{ secrets.PRIVATE_REPO_METRICS_TOKEN }}
           filename: metrics_gaearon_new.svg
